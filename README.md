@@ -1,5 +1,5 @@
 # Projeto jdbc-pk
-# Trabalhando com Banco de Dados utilizando JDBC e JPA
+# Trabalhando com Banco de Dados utilizando JDBC
 
 ## Pré-requisitos 
 - Java Development Kit (JDK) 
